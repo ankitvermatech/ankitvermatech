@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Verma (@ankitvermatech)
-- 👀 I’m interested in Python,Data Science, Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Java, Spring Boot, Python,Data Science, Machine Learning
+- 🌱 I’m currently Spring Boot web development
+- 💞️ I’m looking to collaborate on Spring Boot Projects
 - 📫 How to reach me @ linkedin.com/in/ankit---verma
 
 <!---
